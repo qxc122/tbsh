@@ -4,6 +4,7 @@
 
 ## Build generated
 build/
+portal/Pods
 DerivedData/
 
 ## Various settings
